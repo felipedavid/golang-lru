@@ -1,3 +1,3 @@
-module github.com/hashicorp/golang-lru
+module github.com/felipedavid/golang-lru
 
-go 1.18
+go 1.19
